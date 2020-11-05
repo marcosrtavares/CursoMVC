@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{B93D4E14-01BF-4194-A6F7-A63882F73E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{54095B8E-9CE0-46BD-9D1E-ECE8AAFC7658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{41FE447A-D6A1-417B-80DA-3A6871D25648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93D4E14-01BF-4194-A6F7-A63882F73E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93D4E14-01BF-4194-A6F7-A63882F73E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93D4E14-01BF-4194-A6F7-A63882F73E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93D4E14-01BF-4194-A6F7-A63882F73E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54095B8E-9CE0-46BD-9D1E-ECE8AAFC7658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54095B8E-9CE0-46BD-9D1E-ECE8AAFC7658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54095B8E-9CE0-46BD-9D1E-ECE8AAFC7658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54095B8E-9CE0-46BD-9D1E-ECE8AAFC7658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FE447A-D6A1-417B-80DA-3A6871D25648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FE447A-D6A1-417B-80DA-3A6871D25648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FE447A-D6A1-417B-80DA-3A6871D25648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FE447A-D6A1-417B-80DA-3A6871D25648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A95CD82-8199-4022-9770-60E292703254}
+	EndGlobalSection
+EndGlobal
